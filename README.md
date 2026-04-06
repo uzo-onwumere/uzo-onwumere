@@ -48,5 +48,5 @@ MITRE · CISA · Mandiant · CrowdStrike · Leidos · SAIC · Booz Allen Hamilto
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/uzoma-onwumere-160966273)
-- [HackTheBox](https://app.hackthebox.com/profile/019d0e5e-c931-716a-a587-cc6458037e32)
+- [HackTheBox](https://app.hackthebox.com/users/2715427)
 - [Blog](https://uzo-onwumere.github.io/blog)
