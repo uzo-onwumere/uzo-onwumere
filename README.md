@@ -5,10 +5,11 @@
 Cyber threat intelligence analyst with 4 years of experience, transitioning into penetration testing. I hold an active TS/SCI clearance with CI polygraph.
 
 ![TS/SCI CI Poly](https://img.shields.io/badge/Clearance-TS%2FSCI%20CI%20Poly-0C447C?style=flat-square)
+![eJPT](https://img.shields.io/badge/eJPT-Passed-2EA44F?style=flat-square)
 ![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-27500A?style=flat-square)
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-27500A?style=flat-square)
 ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-27500A?style=flat-square)
-![eJPT](https://img.shields.io/badge/eJPT-In%20Progress-BA7517?style=flat-square)
+![PNPT](https://img.shields.io/badge/PNPT-In%20Progress-BA7517?style=flat-square)
 
 ---
 
@@ -20,9 +21,9 @@ My background is in CTI — tracking threat actors, analyzing TTPs, and producin
 ---
 
 ## What I'm working on
-
-- **eJPT** — working through HTB Academy modules and retired machines on a 30-day study plan
-- **Penetration certification roadmap** — structured program 
+- **PNPT** — TCM Security Practical Ethical Hacking course and Active Directory lab work, targeting Q3 2026
+- **HackTheBox** — working through Easy machines and building toward Medium difficulty
+- **Penetration certification roadmap** — structured 18-24 month program with milestones through OSCP and beyond
 - **CTF writeups** — public record of technical growth across HackTheBox machines
 - **Custom tooling** — recon and enumeration scripts in Python
 
