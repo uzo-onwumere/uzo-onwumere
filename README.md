@@ -21,6 +21,7 @@ My background is in CTI — tracking threat actors, analyzing TTPs, and producin
 ---
 
 ## What I'm working on
+- **Pentest+** — This is purely so I can complete the entire Cybersecurity track that CompTIA has
 - **PNPT** — TCM Security Practical Ethical Hacking course and Active Directory lab work, targeting Q3 2026
 - **HackTheBox** — working through Easy machines and building toward Medium difficulty
 - **Penetration certification roadmap** — structured 18-24 month program with milestones through OSCP and beyond
