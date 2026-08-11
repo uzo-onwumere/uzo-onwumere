@@ -34,9 +34,9 @@ My background is in CTI — tracking threat actors, analyzing TTPs, and producin
 
 | Repo | Description |
 |---|---|
-| [ctf-writeups](../../ctf-writeups) | HackTheBox machine walkthrough notes |
-| [pentest-toolkit](../../pentest-toolkit) | Custom recon scripts and enumeration tools |
-| [blog](../../blog) | Long-form posts on pentesting |
+| [CTF Writeups](https://github.com/uzo-onwumere/ctf-writeups)| HackTheBox machine walkthrough notes |
+| [Pentest Toolkit](https://github.com/uzo-onwumere/pentest-toolkit) | Custom recon scripts and enumeration tools |
+| [Blog](https://github.com/uzo-onwumere/BLOG-REPO-NAME) | Long-form posts on pentesting |
 
 ---
 
