@@ -2,7 +2,7 @@
 
 # Hey, I'm Uzoma Onwumere
 
-Cyber threat intelligence analyst with 4 years of experience, transitioning into penetration testing. I hold an active TS/SCI clearance with CI polygraph.
+Cyber threat intelligence analyst with 4 years of experience, transitioning into penetration testing. 
 
 ![TS/SCI CI Poly](https://img.shields.io/badge/Clearance-TS%2FSCI%20CI%20Poly-0C447C?style=flat-square)
 ![eJPT](https://img.shields.io/badge/eJPT-Passed-2EA44F?style=flat-square)
