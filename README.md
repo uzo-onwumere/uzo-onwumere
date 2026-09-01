@@ -5,11 +5,12 @@
 Cyber threat intelligence analyst with 4 years of experience, transitioning into penetration testing. 
 
 ![TS/SCI CI Poly](https://img.shields.io/badge/Clearance-TS%2FSCI%20CI%20Poly-0C447C?style=flat-square)
-![eJPT](https://img.shields.io/badge/eJPT-Passed-2EA44F?style=flat-square)
+![eJPT](https://img.shields.io/badge/eJPT%2B-27500A?style=flat-square)
 ![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-27500A?style=flat-square)
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-27500A?style=flat-square)
 ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-27500A?style=flat-square)
 ![PNPT](https://img.shields.io/badge/PNPT-In%20Progress-BA7517?style=flat-square)
+![Pentest+](https://img.shields.io/badge/CompTIA-CySA%2B-27500A?style=flat-square)
 
 ---
 
