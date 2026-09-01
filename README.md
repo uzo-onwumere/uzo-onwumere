@@ -9,8 +9,8 @@ Cyber threat intelligence analyst with 4 years of experience, transitioning into
 ![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-27500A?style=flat-square)
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-27500A?style=flat-square)
 ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-27500A?style=flat-square)
+![Pentest+](https://img.shields.io/badge/CompTIA-Pentest+%2B-27500A?style=flat-square)
 ![PNPT](https://img.shields.io/badge/PNPT-In%20Progress-BA7517?style=flat-square)
-![Pentest+](https://img.shields.io/badge/CompTIA-CySA%2B-27500A?style=flat-square)
 
 ---
 
